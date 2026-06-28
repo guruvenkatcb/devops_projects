@@ -2,9 +2,6 @@
 
 DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]
 
-## Hit the Star! ⭐
-If you are planning to use this repo for learning, please hit the star. Thanks!
-
 ## Table of Contents
 
 * [Kubernetes Certification Voucher](#kubernetes-certification-voucher-upto-38-off-)
@@ -63,31 +60,5 @@ You can provision resources when practicing and destroy them after completion to
 9. [GitHub Actions OIDC AWS Integration](https://github.com/techiescamp/devops-projects/tree/main/09-github-action-oidc-aws)
 10. [Setup AWS Route53 Private Hosted Zone](https://github.com/techiescamp/devops-projects/tree/main/10-route53-private-hosted-zone)
 
-> All the DevOps Real World Projects ideas and planned projects are Documented in [Real World DevOps Projects](https://devopscube.com/devops-projects/) Blog
 
-## Practice on Real Cloud Platforms Using Free Credits
-
-Utilize free cloud credits to practice these DevOps projects in a real cloud environment instead of browser-based labs.
-
-This approach gives you practical cloud experience that is much closer to real-world DevOps engineering workflows.
-
-| Cloud Platform                 | Discount / Credits                                 | Deal Page                                                                                     |
-| ------------------------------ | -------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Google Kubernetes Engine (GKE) | Get $300 Free Credits                              | [Claim $300 Free Credits](https://cloud.google.com/free)                                      |
-| AWS                            | Get $200 Free Credits                              | [Claim $200 Free Credit](https://aws.amazon.com/free/)                                        |
-| DigitalOcean                   | Get $200 Free Credits for DigitalOcean Kubernetes  | [Claim $200 Free Credit](https://www.digitalocean.com/?refcode=8223070813&ref=devopscube.com) |
-| Linode Cloud                   | Get $100 Free Credits for Linode Kubernetes Engine | [Claim $100 Free Credit](https://linode.gvw92c.net/Ao32WJ?ref=devopscube.com)                 |
-| Vultr Cloud                    | Get $250 Free Credits for Vultr Kubernetes Engine  | [Claim $250 Free Credit](https://www.vultr.com/?ref=devopscube.com)                           |
-| Azure Cloud Hosting            | Get $200 Free Credits                              | [Claim $200 Free Credit](https://azure.microsoft.com/free/)                                   |
-
-
-> [!NOTE]
-> Browser-based labs are great for certification preparation, quick experiments, and learning specific concepts quickly.
-> But for real-world DevOps projects, it is always better to work in actual cloud environments where you can understand infrastructure behavior, networking, IAM permissions, troubleshooting, automation, and cost optimization in a practical way.
-
-## DevOps Project Videos
-
-All the project videos will be available on Youtube. Following are the published Videos
-
-1. [Jenkins HA Setup on AWS Using Autoscaling Group Using Packer, Ansible, and Terraform](https://www.youtube.com/watch?v=GLMJhF_cZ5M)
 
