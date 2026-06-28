@@ -1,46 +1,8 @@
 # Real-World DevOps Projects For Learning
 
-DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]
-
-## Table of Contents
-
-* [Kubernetes Certification Voucher](#kubernetes-certification-voucher-upto-38-off-)
-* [Real-World DevOps Projects](#real-world-devops-projects)
-* [Practice on Real Cloud Platforms Using Free Credits](#practice-on-real-cloud-platforms-using-free-credits)
-* [DevOps Project Videos](#devops-project-videos)
+DevOps Real World Projects for Aspiring DevOps Engineers [
 
 
-## Kubernetes Certification Voucher (UpTo 38% OFF) 🎉
-If you are learning DevOps in 2026, building projects is important. But validating your skills with industry-recognized certifications is also important.
-
-Especially in today’s IT market where companies are looking for engineers who can actually work with Kubernetes, cloud-native tooling, automation, observability, and platform engineering.\
-
-Certifications like CKA, CKAD, CKS, KCNA, and KCSA help you:
-
-- Build strong Kubernetes fundamentals
-- Follow a structured learning path
-- Gain confidence with real-world concepts
-- Stand out during interviews
-- Validate your hands-on Kubernetes skills
-
-If you are preparing for Kubernetes certifications, these voucher codes can help you save money on exam registrations.
-
-CKA, CKAD, CKS, KCNA etc.. aspirants can **save 30%** today
-
-> [!IMPORTANT]
-> Use code **DCUBE30** at https://kube.promo/devops. It is a limited-time offer from the Linux Foundation.
-
-Use code **DCUBE30** with the following bundles to **save upto 38%**
-
-- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
-- CKA + CKS Bundle: [kube.promo/bundle](https://kube.promo/bundle)
-- CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-
-> Checkout all the latest bundle offers at [Linux Foundation Coupon](https://github.com/techiescamp/linux-foundation-coupon) repo.
-
-> [!NOTE]
->⌛ Act fast—this limited-time offer won’t be around much longer!
-> You have one year of validity to appear for the certification exam after registration
 
 ## Real-World DevOps Projects 
 
